@@ -12,13 +12,13 @@ navigation — demonstrating end-to-end Power BI development skills.
 ## Dashboard Preview
 
 ### Page 1 — Sales Analysis Dashboard
-![Page 1](Dashboard_Page1.png)
+![Page 1](Superstore_Dashboard_Page1.png)
 
 ### Page 2 — Category Details Drill Through
-![Page 2](Dashboard_Page2.png)
+![Page 2 Technology](Superstore_Dashboard_Page2_Technology.png)
 
 ### Page 2 — Drill Through (Furniture)
-![Page 2 Furniture](Dashboard_Page2_Furniture.png)
+![Page 2 Furniture](Superstore_Dashboard_Page2_Furniture.png)
 
 ---
 
