@@ -14,7 +14,7 @@ navigation — demonstrating end-to-end Power BI development skills.
 ### Page 1 — Sales Analysis Dashboard
 ![Page 1](Superstore_Dashboard_Page1.png)
 
-### Page 2 — Category Details Drill Through
+### Page 2 — Category Details Drill Through (Technology)
 ![Page 2 Technology](Superstore_Dashboard_Page2_Technology.png)
 
 ### Page 2 — Drill Through (Furniture)
